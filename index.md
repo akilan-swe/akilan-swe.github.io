@@ -5,25 +5,15 @@ I have been wokring as software engineer around 8yrs
 
 [About](https://akilan-swe.github.io/about)
 
-### Markdown
+- Bullet1
+- Bullet2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`var test`
+
+![Akilan](https://upload.wikimedia.org/wikipedia/commons/6/67/Vattakudi_south_lake.jpeg)
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 

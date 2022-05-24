@@ -1,6 +1,6 @@
 # akilan-swe.github.io
 
-**My WebSite**
+**My Code Snippets**
 
 ***
 
